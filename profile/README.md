@@ -2,9 +2,16 @@
 
 <!-- <img width="407" alt="modernapps" src="https://github.com/TW-ModernApps/.github/assets/4567469/1ff4dfcf-b513-47de-b313-db20a56265ad"> -->
 
-GDC (Global Delivery Center) team from TeamWork! 🦄  
+<dl>
+	<p align="center">
+		Welcome to our GitHub space.
+	</p>
+</dl>
 
-Welcome to our GitHub space. ❤️.
+<div align="center">
+	<sub>Built with ❤️ by GDC Team 🦄 .</sub>
+</div>
+
 
 # Create a new repository
 
