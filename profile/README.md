@@ -5,12 +5,10 @@
 	<p align="center">
 		<img width="640" alt="gdc" src="../img/gdc_github.15.640.gif">
 	</p>
+  <p align="center">
+		Built with ❤️ by GDC Team 🦄 .
+	</p>
 </dl>
-
-<div align="center">
-	<sub>Built with ❤️ by GDC Team 🦄 .</sub>
-</div>
-
 
 # Create a new repository
 
