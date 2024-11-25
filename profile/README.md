@@ -1,7 +1,10 @@
 # Ohayo ✌️
 
+
 <dl>
-  <img width="640" alt="gdc" src="../img/gdc_github.15.640.gif">
+	<p align="center">
+		<img width="640" alt="gdc" src="../img/gdc_github.15.640.gif">
+	</p>
 </dl>
 
 <div align="center">
