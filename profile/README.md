@@ -3,12 +3,14 @@
 
 <dl>
 	<p align="center">
-		<img width="640" alt="gdc" src="../img/gdc_github_10fps.320x112.gif">
+		<img width="640" alt="gdc" src="../img/gdc_github_10fps.640x224.gif">
 	</p>
   <p align="center">
 		Built with ❤️ by GDC Team 🦄 .
 	</p>
 </dl>
+
+![](../gdc_github_x264.mp4)
 
 # Create a new repository
 
