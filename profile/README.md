@@ -4,7 +4,7 @@
 	<p align="center">
 		Welcome to our GitHub space.
 	</p>
-  <img width="720" alt="gdc" src=".github/assets/gdc_github.15.720.gif">
+  <img width="640" alt="gdc" src=".github/assets/gdc_github.15.640.gif">
 </dl>
 
 <div align="center">
