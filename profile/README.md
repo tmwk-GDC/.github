@@ -1,6 +1,6 @@
 # Ohayo ✌️
 
-<img width="640" alt="gdc" src=".github/assets/gdc_github.15.640.gif">
+<img width="640" alt="gdc" src=".github/profile/img/gdc_github.15.640.gif">
 
 <dl>
 	<p align="center">
