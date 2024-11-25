@@ -1,11 +1,10 @@
 # Ohayo ✌️
 
-<!-- <img width="407" alt="modernapps" src="https://github.com/TW-ModernApps/.github/assets/4567469/1ff4dfcf-b513-47de-b313-db20a56265ad"> -->
-
 <dl>
 	<p align="center">
 		Welcome to our GitHub space.
 	</p>
+  <img width="720" alt="gdc" src=".github/assets/gdc_github.15.720.gif">
 </dl>
 
 <div align="center">
