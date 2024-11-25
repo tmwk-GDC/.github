@@ -3,7 +3,7 @@
 
 <dl>
 	<p align="center">
-		<img width="640" alt="gdc" src="../img/gdc_github.15.640.gif">
+		<img width="640" alt="gdc" src="../img/gdc_github_10fps.320x112.gif">
 	</p>
   <p align="center">
 		Built with ❤️ by GDC Team 🦄 .
