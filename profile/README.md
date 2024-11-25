@@ -1,12 +1,7 @@
 # Ohayo ✌️
 
-<img width="640" alt="gdc" src=".github/profile/img/gdc_github.15.640.gif">
-
 <dl>
-	<p align="center">
-		Welcome to our GitHub space.
-	</p>
-  
+  <img width="640" alt="gdc" src="../img/gdc_github.15.640.gif">
 </dl>
 
 <div align="center">
